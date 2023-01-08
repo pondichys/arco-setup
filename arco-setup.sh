@@ -57,3 +57,5 @@ sudo pacman -S --noconfirm --needed keybase-gui
 sudo pacman -S --noconfirm --needed kbfs
 #sudo pacman -S --noconfirm --needed teams
 
+# Python pip
+sudo pacman -S --noconfirm --needed python-pip
