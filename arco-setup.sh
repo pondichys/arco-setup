@@ -10,6 +10,7 @@ sudo pacman -S --noconfirm --needed fzf
 sudo pacman -S --noconfirm --needed go-yq
 sudo pacman -S --noconfirm --needed jq
 sudo pacman -S --noconfirm --needed meld
+sudo pacman -S --noconfirm --needed neovim
 sudo pacman -S --noconfirm --needed starship
 sudo pacman -S --noconfirm --needed stow
 sudo pacman -S --noconfirm --needed tmux
