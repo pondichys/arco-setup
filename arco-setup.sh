@@ -2,6 +2,7 @@
 sudo pacman -Sy
 
 # Basic packages
+sudo pacman -S --noconfirm --needed arandr
 sudo pacman -S --noconfirm --needed bat
 sudo pacman -S --noconfirm --needed curl
 sudo pacman -S --noconfirm --needed exa
