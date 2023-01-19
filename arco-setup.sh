@@ -63,3 +63,6 @@ sudo pacman -S --noconfirm --needed kbfs
 
 # Python pip
 sudo pacman -S --noconfirm --needed python-pip
+
+# Node manager
+paru -S fnm
