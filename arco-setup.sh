@@ -8,8 +8,10 @@ sudo pacman -S --noconfirm --needed curl
 sudo pacman -S --noconfirm --needed exa
 sudo pacman -S --noconfirm --needed fd
 sudo pacman -S --noconfirm --needed fzf
+sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed go-yq
 sudo pacman -S --noconfirm --needed jq
+sudo pacman -S --noconfirm --needed lazygit
 sudo pacman -S --noconfirm --needed meld
 sudo pacman -S --noconfirm --needed neovim
 sudo pacman -S --noconfirm --needed starship
