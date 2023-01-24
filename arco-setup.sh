@@ -47,6 +47,7 @@ sudo pacman -S --noconfirm --needed kubectx
 sudo pacman -S --noconfirm --needed k9s
 sudo pacman -S --noconfirm --needed datree
 sudo pacman -S --noconfirm --needed helm
+paru -S --noconfirm --needed kind-bin
 
 # Distrobox
 paru -S --noconfirm --needed distrobox
@@ -66,3 +67,6 @@ sudo pacman -S --noconfirm --needed python-pip
 
 # Node manager
 paru -S fnm
+
+# Terraform
+sudo pacman -S --noconfirm --needed terraform
