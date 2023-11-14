@@ -21,7 +21,7 @@ sudo pacman -S --noconfirm --needed docker docker-buildx docker-compose
 sudo pacman -S --noconfirm --needed python-pip
 
 # Node manager (for neovim mason plugin)
-paru -S fnm-bin
+paru -S --noconfirm --needed fnm-bin
 
 # Terraform
 # sudo pacman -S --noconfirm --needed terraform
