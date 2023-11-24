@@ -24,7 +24,7 @@ sudo pacman -S --noconfirm --needed python-pip
 paru -S --noconfirm --needed fnm-bin
 
 # Terraform
-# sudo pacman -S --noconfirm --needed terraform
+sudo pacman -S --noconfirm --needed terraform
 
 # Install Vivaldi Web Browser
 sudo pacman -S --noconfirm --needed vivaldi vivaldi-ffmpeg-codecs
