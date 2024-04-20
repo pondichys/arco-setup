@@ -15,7 +15,7 @@ sudo pacman -S --noconfirm --needed zsh zsh-completions zsh-syntax-highlighting 
 sudo pacman -S --noconfirm --needed docker docker-buildx docker-compose
 
 # Distrobox
-# paru -S --noconfirm --needed distrobox
+sudo pacman -S --noconfirm --needed distrobox
 
 # Node manager (for neovim mason plugin)
 yay -S --noconfirm --needed fnm-bin
