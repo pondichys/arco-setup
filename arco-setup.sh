@@ -11,6 +11,9 @@ sudo pacman -S --noconfirm --needed git git-delta github-cli lazygit
 sudo pacman -S --noconfirm --needed bash bash-completion
 sudo pacman -S --noconfirm --needed zsh zsh-completions zsh-syntax-highlighting zsh-autosuggestions
 
+# Install BTFS tools
+sudo pacman -S --noconfirm --needed arcolinux-meta-btrfs-timeshift
+
 # Install Docker
 sudo pacman -S --noconfirm --needed docker docker-buildx docker-compose
 
