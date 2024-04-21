@@ -2,7 +2,7 @@
 sudo pacman -Sy
 
 # Basic packages
-sudo pacman -S --noconfirm --needed bat chezmoi curl fd fzf go-yq jq meld neovim ripgrep starship tealdeer tmux tree unzip wget zellij zoxide
+sudo pacman -S --noconfirm --needed bat chezmoi curl fastfetch fd fzf go-yq jq meld neovim ripgrep starship tealdeer tmux tree unzip wget zellij zoxide
 
 # Git tools
 sudo pacman -S --noconfirm --needed git git-delta github-cli lazygit
