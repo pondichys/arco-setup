@@ -25,3 +25,6 @@ yay -S --noconfirm --needed fnm-bin
 
 # Terraform
 sudo pacman -S --noconfirm --needed terraform
+
+# Remove Arcolinux specific zsh settings and oh-my-zsh
+sudo pacman -R --noconfirm arcolinux-zsh-git oh-my-zsh-git
